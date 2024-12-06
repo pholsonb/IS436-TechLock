@@ -34,3 +34,25 @@ Frontend: HTML, CSS, Javascript. Backend: PHP. Database: SQL queries.
 
 
 // In the README.md file, provide information about your project, including the technologies your team is implementing.
+
+# Techlock Website Documentation 
+
+This is a collection of user documentation for the employee database website designed by Techlock
+
+## Table of Content
+
+* [Introduction](#introduction)
+* [Features](#features)
+
+
+
+
+## Introduction
+
+The employee management system created by Techlock is a website that allows your company, BG Solutions, to access and manage data of your employees. All of this data is stored in a database that keeps personal informatio safe, while making it accessible to those in the organization who need access. 
+
+
+## Features
+
+This website has multipel features that are very useful to employees and Human Resource Managers
+
